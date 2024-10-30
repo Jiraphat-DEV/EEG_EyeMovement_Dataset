@@ -1,11 +1,3 @@
-# Ignore all .npy files
-**/*.npy
-
-# Ignore dataset folders
-EEG_EyeMovement_Dataset/Combined_Subjects/
-EEG_EyeMovement_Dataset/Individual_Subjects/
-EEG_EyeMovement_Dataset/Selected_Data/
-
 # Ignore Python bytecode files
 *.pyc
 __pycache__/
@@ -23,4 +15,3 @@ Thumbs.db
 .idea/
 *.sublime-project
 *.sublime-workspace
-
